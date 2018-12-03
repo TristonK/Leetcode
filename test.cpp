@@ -1,4 +1,4 @@
-#include<bits/stdc++.h>
+#include<iostream>
 using namespace std;
 int main(){
     cout<<"this is just a test code"<<endl;
