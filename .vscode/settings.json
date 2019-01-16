@@ -1,0 +1,7 @@
+{
+    "workbench.colorTheme": "Dracula",
+    "workbench.iconTheme": "vscode-icons",
+    "files.associations": {
+        "vector": "cpp"
+    }
+}
