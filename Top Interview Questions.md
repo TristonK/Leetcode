@@ -9,7 +9,8 @@
 
 ## 2	Add Two Numbers    		 	 	
 
-## 3	Longest Substring Without Repeating Characters    		 	 	
+## 3	Longest Substring Without Repeating Characters
+
 大意：给定字符串，求没有相同字符的最长子字符串的长度。
 
 求解方式：
@@ -39,6 +40,7 @@ public class Solution {
 
 ## 4	Median of Two Sorted Arrays    		 	 	
 
+题目大意：给定两个vector数组，找到两个数组中的所有数的中位数，要求时间在$log(m+n)$内
 
 ## 5	Longest Palindromic Substring    		 	 	
 7	Reverse Integer    		 	 	
@@ -72,121 +74,63 @@ public class Solution {
 54	Spiral Matrix    		 	 	
 55	Jump Game    		 	 	
 56	Merge Intervals    		 	 	
-
-62	
-Unique Paths    		 	 	
-66	
-Plus One    		 	 	
-69	
-Sqrt(x)    		 	 	
-70	
-Climbing Stairs    		 	 	
-73	
-Set Matrix Zeroes    		 	 	
-75	
-Sort Colors    		 	 	
-76	
-Minimum Window Substring    		 	 	
-78	
-Subsets    		 	 	
-79	
-Word Search    		 	 	
-84	
-Largest Rectangle in Histogram    		 	 	
-88	
-Merge Sorted Array    		 	 	
-91	
-Decode Ways    		 	 	
-94	
-Binary Tree Inorder Traversal    		 	 	
-98	
-Validate Binary Search Tree    	
-101	
-Symmetric Tree    		 	 	
-102	
-Binary Tree Level Order Traversal    		 	 	
-103	
-Binary Tree Zigzag Level Order Traversal    		 	 	
-104	
-Maximum Depth of Binary Tree    		 	 	
-105	
-Construct Binary Tree from Preorder and Inorder Traversal    		 	 	
-108	
-Convert Sorted Array to Binary Search Tree    		 	 	
-116	
-Populating Next Right Pointers in Each Node    		 	 	
-118	
-Pascal's Triangle    		 	 	
-121	
-Best Time to Buy and Sell Stock    		 	 	
-122	
-Best Time to Buy and Sell Stock II    		 	 	
-124	
-Binary Tree Maximum Path Sum    		 	 	
-125	
-Valid Palindrome    		 	 	
-127	
-Word Ladder    		 	 	
-128	
-Longest Consecutive Sequence    		 	 	
-130	
-Surrounded Regions    		 	 	
-131	
-Palindrome Partitioning    		 	 	
-134	
-Gas Station    		 	 	
-136	
-Single Number    		 	 	
-138	
-Copy List with Random Pointer    		 	 	
-139	
-Word Break    		 	 	
-140	
-Word Break II    		 	 	
-141	
-Linked List Cycle    		 	 	
-146	
-LRU Cache    		 	 	
-148	
-Sort List    		 	 	
-149	
-Max Points on a Line    		 	 	
-150	
-Evaluate Reverse Polish Notation    		 	 	
-152	
-Maximum Product Subarray    		 	 	
-155	
-Min Stack    		 	 	
-160	
-Intersection of Two Linked Lists    		 	 	
-162	
-Find Peak Element    		 	 	
-163	
-Missing Ranges    		 	 	
-166	
-Fraction to Recurring Decimal    		 	 	
-169	
-Majority Element    		 	 	
-171	
-Excel Sheet Column Number    		 	 	
-172	
-Factorial Trailing Zeroes    		 	 	
-179	
-Largest Number    		 	 	
-189	
-Rotate Array    		 	 	
-190	
-Reverse Bits    		 	 	
-191	
-Number of 1 Bits    		 	 	
-198	
-House Robber    		 	 	
-200	
-Number of Islands    		 	 	
-202	
-Happy Number    		 	 	
-204	
-Count Primes    		 	 	
+62	Unique Paths    		 	 	
+66	Plus One    		 	 	
+69	Sqrt(x)    		 	 	
+70	Climbing Stairs    		 	 	
+73	Set Matrix Zeroes    		 	 	
+75	Sort Colors    		 	 	
+76	Minimum Window Substring    		 	 	
+78	Subsets    		 	 	
+79	Word Search    		 	 	
+84	Largest Rectangle in Histogram    		 	 	
+88	Merge Sorted Array    		 	 	
+91	Decode Ways    		 	 	
+94	Binary Tree Inorder Traversal    		 	 	
+98	Validate Binary Search Tree    	
+101	Symmetric Tree    		 	 	
+102	Binary Tree Level Order Traversal    		 	 	
+103	Binary Tree Zigzag Level Order Traversal    		 	 	
+104	Maximum Depth of Binary Tree    		 	 	
+105	Construct Binary Tree from Preorder and Inorder Traversal    		 	 	
+108	Convert Sorted Array to Binary Search Tree    		 	 	
+116	Populating Next Right Pointers in Each Node    		 	 	
+118	Pascal's Triangle    		 	 	
+121	Best Time to Buy and Sell Stock    		 	 	
+122	Best Time to Buy and Sell Stock II    		 	 	
+124	Binary Tree Maximum Path Sum    		 	 	
+125	Valid Palindrome    		 	 	
+127	Word Ladder    		 	 	
+128	Longest Consecutive Sequence    		 	 	
+130	Surrounded Regions    		 	 	
+131	Palindrome Partitioning    		 	 	
+134	Gas Station    		 	 	
+136	Single Number    		 	 	
+138	Copy List with Random Pointer    		 	 	
+139	Word Break    		 	 	
+140	Word Break II    		 	 	
+141	Linked List Cycle    		 	 	
+146	LRU Cache    		 	 	
+148	Sort List    		 	 	
+149	Max Points on a Line    		 	 	
+150	Evaluate Reverse Polish Notation    		 	 	
+152	Maximum Product Subarray    		 	 	
+155	Min Stack    		 	 	
+160	Intersection of Two Linked Lists    		 	 	
+162	Find Peak Element    		 	 	
+163	Missing Ranges    		 	 	
+166	Fraction to Recurring Decimal    		 	 	
+169	Majority Element    		 	 	
+171	Excel Sheet Column Number    		 	 	
+172	Factorial Trailing Zeroes    		 	 	
+179	Largest Number    		 	 	
+189	Rotate Array    		 	 	
+190	Reverse Bits    		 	 	
+191	Number of 1 Bits    		 	 	
+198	House Robber    		 	 	
+200	Number of Islands    		 	 	
+202	Happy Number    		 	 	
+204	Count Primes    		 	 	
 206	
 Reverse Linked List    		 	 	
 207	
